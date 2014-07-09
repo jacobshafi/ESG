@@ -49,7 +49,7 @@ License URI: http://themeforest.net/licenses/regular_extended
   }
 }
 * {
-  border-color: #C4BDF3;
+  border-color: #261B75;
   border-style: solid;
   border-width: 0;
   zoom: 1;
@@ -80,6 +80,7 @@ textarea {
   overflow: hidden;
 }
 .page-box-content {
+  background-color: #FFF;
   padding-bottom: 310px;
 }
 
@@ -2726,7 +2727,7 @@ blockquote small {
   font-weight: normal;
 }
 .bg {
-  background-color: #f2f2f2;
+  background-color: #ffffff;
 }
 .border {
   border-width: 1px;
